@@ -1,0 +1,6 @@
+*.pth
+*.pkl
+*.png
+*.csv
+.DS_Store
+data/imageClassify/img_align_celeba

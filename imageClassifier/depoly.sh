@@ -1,0 +1,1 @@
+rsync -avzP * root@47.92.217.254:/root/apps/dl-playground
